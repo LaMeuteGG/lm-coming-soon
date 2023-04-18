@@ -109,4 +109,41 @@ strong {
   color: #D8BC7B;
   font-size: 1.65em;
 }
+
+@media screen and (max-width: 1350px) {
+  main {
+    .content-wrapper {
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+      align-items: center;
+      .brand-hero-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        .brand-hero {
+          font-size: 2rem;
+        }
+
+        .brand-image {
+          max-width: 256px;
+          margin-left: 0;
+        }
+      }
+
+      .brand-links {
+        margin-top: 0;
+
+        a {
+          padding: 0.5em
+
+          img {
+            width: 24px;
+          }
+        }
+      }
+    }
+  }
+}
 </style>
