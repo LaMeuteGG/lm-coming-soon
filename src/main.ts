@@ -1,11 +1,14 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import router from './router'
 
-import './assets/main.css'
+import 'normalize.css';
+import './assets/scss/app.scss'
+import { JOIN_DISCORD_LINK } from './constants';
 
-const app = createApp(App)
+const app = createApp(App);
 
-app.use(router)
+if (window.location.pathname.includes('discord')) {
+  window.location.href = JOIN_DISCORD_LINK;
+}
 
-app.mount('#app')
+app.mount('#app');

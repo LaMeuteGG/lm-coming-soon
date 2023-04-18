@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="21" viewBox="0 0 19 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="19" height="21" transform="translate(-0.39 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Tracé_37" data-name="Tracé 37" d="M149.525-285.592a1.1,1.1,0,0,0-1.063,1.141,1.108,1.108,0,0,0,1.063,1.14,1.1,1.1,0,0,0,1.062-1.14A1.094,1.094,0,0,0,149.525-285.592Z" transform="translate(-148.462 285.592)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.002" y1="0.5" x2="0.998" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aa9766"/>
+      <stop offset="0.1" stop-color="#ad9a69"/>
+      <stop offset="0.2" stop-color="#b19e6d"/>
+      <stop offset="0.3" stop-color="#b5a271"/>
+      <stop offset="0.4" stop-color="#b9a675"/>
+      <stop offset="0.5" stop-color="#bdaa79"/>
+      <stop offset="0.6" stop-color="#c1ae7d"/>
+      <stop offset="0.7" stop-color="#c5b281"/>
+      <stop offset="0.8" stop-color="#c9b685"/>
+      <stop offset="0.9" stop-color="#cdba89"/>
+      <stop offset="1" stop-color="#d0be8c"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Tracé_39" data-name="Tracé 39" d="M240.507-285.592a1.1,1.1,0,0,0-1.062,1.141,1.107,1.107,0,0,0,1.062,1.14,1.1,1.1,0,0,0,1.062-1.14A1.1,1.1,0,0,0,240.507-285.592Z" transform="translate(-239.445 285.592)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Tracé_41" data-name="Tracé 41" d="M17.024-491.85H3.07a2.125,2.125,0,0,0-2.135,2.116v13.889a2.126,2.126,0,0,0,2.135,2.116H14.878l-.552-1.9,1.333,1.222,1.26,1.15,2.239,1.953v-18.429A2.125,2.125,0,0,0,17.024-491.85ZM13-478.434s-.375-.442-.687-.832a3.283,3.283,0,0,0,1.885-1.222,5.959,5.959,0,0,1-1.2.605,6.969,6.969,0,0,1-1.509.442,7.407,7.407,0,0,1-2.7-.011,8.84,8.84,0,0,1-1.531-.442,6.073,6.073,0,0,1-.76-.35c-.032-.02-.063-.03-.094-.051a.165.165,0,0,1-.041-.031c-.187-.1-.292-.175-.292-.175A3.238,3.238,0,0,0,7.9-479.287c-.312.391-.7.853-.7.853A3.783,3.783,0,0,1,4.028-480a13.613,13.613,0,0,1,1.5-5.989,5.2,5.2,0,0,1,2.926-1.079l.1.123a7.05,7.05,0,0,0-2.739,1.346s.229-.124.615-.3a7.91,7.91,0,0,1,2.364-.647,1.008,1.008,0,0,1,.177-.02,8.9,8.9,0,0,1,2.1-.021,8.585,8.585,0,0,1,3.134.986,6.959,6.959,0,0,0-2.593-1.3l.145-.164a5.2,5.2,0,0,1,2.926,1.079A13.613,13.613,0,0,1,16.19-480,3.815,3.815,0,0,1,13-478.434Z" transform="translate(-0.935 491.85)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Discord_icon" data-name="Discord icon" transform="translate(0.39)">
+    <g id="Groupe_63" data-name="Groupe 63" transform="translate(0 0)" style="isolation: isolate">
+      <g id="Groupe_62" data-name="Groupe 62" transform="translate(0 0)">
+        <g id="Groupe_61" data-name="Groupe 61" clip-path="url(#clip-path)">
+          <g id="Groupe_56" data-name="Groupe 56" transform="translate(6.203 8.785)" clip-path="url(#clip-path-2)">
+            <g id="Groupe_55" data-name="Groupe 55" transform="translate(-6.203 -8.625)">
+              <path id="Tracé_36" data-name="Tracé 36" d="M-.935-246h18.3v20.558H-.935Z" transform="translate(0.935 246)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+          <g id="Groupe_58" data-name="Groupe 58" transform="translate(10.005 8.785)" clip-path="url(#clip-path-3)">
+            <g id="Groupe_57" data-name="Groupe 57" transform="translate(-10.005 -8.625)">
+              <path id="Tracé_38" data-name="Tracé 38" d="M-.935-246h18.3v20.558H-.935Z" transform="translate(0.935 246)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+          <g id="Groupe_60" data-name="Groupe 60" transform="translate(0.039 0.167)" clip-path="url(#clip-path-4)">
+            <g id="Groupe_59" data-name="Groupe 59" transform="translate(-0.039 -0.006)">
+              <path id="Tracé_40" data-name="Tracé 40" d="M-.935-246h18.3v20.558H-.935Z" transform="translate(0.935 246)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
