@@ -3,7 +3,12 @@ import App from './App.vue'
 
 import 'normalize.css';
 import './assets/scss/app.scss'
+import { JOIN_DISCORD_LINK } from './constants';
 
-const app = createApp(App)
+const app = createApp(App);
 
-app.mount('#app')
+if (window.location.pathname.includes('discord')) {
+  window.location.href = JOIN_DISCORD_LINK;
+}
+
+app.mount('#app');

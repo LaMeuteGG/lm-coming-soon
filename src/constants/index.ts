@@ -1,0 +1,1 @@
+export const JOIN_DISCORD_LINK = 'https://discord.gg/re9NVNDrSe';

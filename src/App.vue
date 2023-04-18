@@ -10,7 +10,7 @@
         <a href="https://youtube.com/@Grimille" target="_blank"><img src="/images/youtube_icon.svg" alt="YouTube Grimille"></a>
         <a href="https://twitter.com/LaMeuteGG" target="_blank"><img src="/images/twitter_icon.svg" alt="La Meute Twitter"></a>
         <a href="https://instagram.com/LaMeuteGG" target="_blank"><img src="/images/instagram_icon.svg" alt="Instagram TikTok"></a>
-        <a id="discord" href="https://discord.gg/re9NVNDrSe" target="_blank"><img src="/images/discord_icon.svg" alt="La Meute Discord"></a>
+        <a id="discord" :href="JOIN_DISCORD_LINK" target="_blank"><img src="/images/discord_icon.svg" alt="La Meute Discord"></a>
       </div>
     </div>
     <div class="overlay"></div>
@@ -18,6 +18,8 @@
 </template>
 
 <script setup lang="ts">
+import { JOIN_DISCORD_LINK } from './constants';
+
 
 </script>
 
