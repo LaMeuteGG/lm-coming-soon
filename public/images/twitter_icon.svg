@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="18" viewBox="0 0 22 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="22" height="18" transform="translate(0.422 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Tracé_49" data-name="Tracé 49" d="M22.624-353.6a9.148,9.148,0,0,1-2.627.737A4.59,4.59,0,0,0,22-355.4a9.226,9.226,0,0,1-2.9,1.121,4.511,4.511,0,0,0-3.374-1.452,4.575,4.575,0,0,0-4.559,4.581,4.763,4.763,0,0,0,.117,1.046,13.021,13.021,0,0,1-9.439-4.784,4.532,4.532,0,0,0-.619,2.3,4.507,4.507,0,0,0,2.04,3.8,4.53,4.53,0,0,1-2.082-.534v.032a4.584,4.584,0,0,0,3.673,4.5,4.507,4.507,0,0,1-1.207.16,4.543,4.543,0,0,1-.854-.085,4.57,4.57,0,0,0,4.271,3.182,9.1,9.1,0,0,1-5.691,1.965,9.318,9.318,0,0,1-1.089-.064,12.968,12.968,0,0,0,7.026,2.061A12.959,12.959,0,0,0,20.35-350.616c0-.2,0-.4-.011-.6A9.153,9.153,0,0,0,22.624-353.6Z" transform="translate(-0.286 355.731)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.001" y1="0.5" x2="0.999" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aa9766"/>
+      <stop offset="0.1" stop-color="#ad9a69"/>
+      <stop offset="0.2" stop-color="#b19e6d"/>
+      <stop offset="0.3" stop-color="#b5a271"/>
+      <stop offset="0.4" stop-color="#b9a675"/>
+      <stop offset="0.5" stop-color="#bdaa79"/>
+      <stop offset="0.6" stop-color="#c1ae7d"/>
+      <stop offset="0.7" stop-color="#c5b281"/>
+      <stop offset="0.8" stop-color="#c9b685"/>
+      <stop offset="0.9" stop-color="#cdba89"/>
+      <stop offset="1" stop-color="#d0be8c"/>
+    </linearGradient>
+  </defs>
+  <g id="Twitter_icon" data-name="Twitter icon" transform="translate(-0.422)">
+    <g id="Groupe_79" data-name="Groupe 79" transform="translate(0 0)" style="isolation: isolate">
+      <g id="Groupe_78" data-name="Groupe 78" transform="translate(0 0)">
+        <g id="Groupe_77" data-name="Groupe 77" clip-path="url(#clip-path)">
+          <g id="Groupe_76" data-name="Groupe 76" transform="translate(0.015 0.167)" clip-path="url(#clip-path-2)">
+            <g id="Groupe_75" data-name="Groupe 75" transform="translate(-0.015 -0.014)">
+              <path id="Tracé_48" data-name="Tracé 48" d="M-.286-178H22.081v18.18H-.286Z" transform="translate(0.286 178)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
